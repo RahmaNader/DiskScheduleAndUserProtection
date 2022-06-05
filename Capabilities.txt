@@ -1,0 +1,2 @@
+root/folder2,yara,11
+root/folder1,Yara,10,abc,10
